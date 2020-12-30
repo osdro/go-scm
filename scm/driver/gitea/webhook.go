@@ -12,8 +12,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/drone/go-scm/scm"
-	"github.com/drone/go-scm/scm/driver/internal/hmac"
+	"github.com/osdro/go-scm/scm"
+	"github.com/osdro/go-scm/scm/driver/internal/hmac"
 )
 
 type webhookService struct {

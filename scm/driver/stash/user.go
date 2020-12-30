@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/drone/go-scm/scm"
+	"github.com/osdro/go-scm/scm"
 )
 
 type userService struct {

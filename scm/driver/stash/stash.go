@@ -13,8 +13,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/drone/go-scm/scm"
-	"github.com/drone/go-scm/scm/driver/internal/null"
+	"github.com/osdro/go-scm/scm"
+	"github.com/osdro/go-scm/scm/driver/internal/null"
 )
 
 // Reference API Documentation:

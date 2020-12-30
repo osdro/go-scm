@@ -15,7 +15,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/drone/go-scm/scm"
+	"github.com/osdro/go-scm/scm"
 )
 
 // New returns a new Gitea API client.

@@ -9,8 +9,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/drone/go-scm/scm/driver/github"
-	"github.com/drone/go-scm/scm/transport"
+	"github.com/osdro/go-scm/scm/driver/github"
+	"github.com/osdro/go-scm/scm/transport"
 )
 
 func TestGitHub(t *testing.T) {
